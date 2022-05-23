@@ -2,8 +2,8 @@
 ## To Run
 ### `npm start`
 Can add items to the database, which is supported by ALASQL that uses browser to create SQL database
-!(ekle)[../assets/ekle.png]
+![ekle](../assets/ekle.png)
 Can create bill of taken items by inputting the BarCodes
-!(fiseEkle)[../assets/fiseEkle.png]
+![fisEkle](../assets/fiseEkle.png)
 While giving BarCodes to input, it controls whether it surpass the given Amount
-!(fiseEklemeHatasi)[../assets/fiseEklemeHatasi.png]
+![fiseEklemeHatasi](../assets/fiseEklemeHatasi.png)
